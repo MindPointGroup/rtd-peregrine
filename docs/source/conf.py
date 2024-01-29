@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MPGPeregrine'
+copyright = '2023, MPG'
+author = 'MPG'
 
 release = '0.1'
 version = '0.1.0'
