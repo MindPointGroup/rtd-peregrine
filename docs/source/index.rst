@@ -10,7 +10,18 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Peregrine Documentation
+   
+   /usage
+   /menu
+   /api
 
-   usage
-   api
-   menu
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Release Notes
+
+   /releases/peregrine-v2.5.2
+   /releases/peregrine-v2.5.1
+   /releases/peregrine-v2.5.0
