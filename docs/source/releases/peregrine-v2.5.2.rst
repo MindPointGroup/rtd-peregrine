@@ -1,6 +1,11 @@
 Release Notes Peregrine v2.5.2
 ========================
 
+============= =======================
+Release date: 2024-01-16
+Notes:        Peregrine 2.5.2 (RC1). Many new updates as detailed below. 
+============= =======================
+
 Member CID:
 ---------
 
