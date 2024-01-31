@@ -22,6 +22,7 @@ Contents
    :hidden:
    :caption: Release Notes
 
+   /releases/peregrine-v2.6
    /releases/peregrine-v2.5.2
    /releases/peregrine-v2.5.1
    /releases/peregrine-v2.5.0
