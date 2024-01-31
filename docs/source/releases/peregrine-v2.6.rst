@@ -14,7 +14,7 @@ UPDATES
 - Updated Batch code that allows non-Admin to run Ipconfig/Netstat
 - Updated Batch Crowdstrike call with Device Object to allow hostname to be added on the service level
 - Updated Ipconfig clear dropdown after device removal
-- Updated Contain/ Uncontained Clear all on Device removal.
+- Updated Contain/ Uncontained Clear all on Device removal
 - Updated clientHostManagerContainer.go clear and maintain state
 - Updated Maintain State of datasets, touched input and output fields through out all 17 widgets
 - Updated Maintain Focus of current user selected widget
