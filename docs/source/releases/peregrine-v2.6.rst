@@ -3,7 +3,7 @@ Release Notes Peregrine v2.6
 
 ============= =======================
 Release date: 2024-01-29
-Notes:        Peregrine 2.6 (RC2) is our GA release. 
+Notes:        Peregrine 2.6 (RC2) is our GA release candidate. 
 ============= =======================
 
 UPDATES
