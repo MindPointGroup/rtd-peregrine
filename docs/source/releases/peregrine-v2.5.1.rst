@@ -1,5 +1,5 @@
 Peregrine v2.5.1 Release Notes 
-============================
+==============================
 
 ============= =======================
 Release date: 2023-12-11
@@ -7,7 +7,7 @@ Summary:      Peregrine update 2.5.1 is a bug-fix and UX improvement update for 
 ============= =======================
 
 Member CID Fixes and Improvements: 
--------------------------------
+----------------------------------
 
 - Improved UX when onboarding to stop form from pushing below the user's screen 
 - Removed submit button 
@@ -25,7 +25,7 @@ Member CID Fixes and Improvements:
 - Setconfig Host fix 
 
 Client Configuration Manager: 
----------------------------
+-----------------------------
 
 - Bug fixes for check current .env is not in use w dialog when deleting 
 - Bug fixes for utility to append and reload .env files into client/host list after users adds new .env file 
@@ -41,7 +41,7 @@ Client Configuration Manager:
 - Setconfig Host fix 
 
 Activation Screen: 
------------------
+------------------
 
 - Debug Fix for onChange of Debug selection 
 - No CID Operation when user adds Client with no CID 
@@ -52,7 +52,7 @@ Activation Screen:
 - Cred Check before .env is written to file 
 
 RTR (Real Time Response) Manager: 
--------------------------------
+---------------------------------
 
 - RTR Manager Copy All Across all OS types 
 - Run Script bug fix 
@@ -60,44 +60,44 @@ RTR (Real Time Response) Manager:
 - Access Denied Service layer error Handled 
 
 Authenticate Client: 
--------------------
+--------------------
 
 - Removed Check to only change CID if it is not empty 
 
 Host Explorer: 
--------------
+--------------
 
 - Online/Offline status fix 
 - Fixed OS type Icon not displaying correct OS type 
 
 Zero Trust: 
----------
+-----------
 
 - Zero trust multi thread with error handler crash fix 
 - Function Class Updates to new classes from GoFalcon update 
 - Built out UI New Table with query to search for overall score 
 
 Cloud File Explorer: 
------------------
+--------------------
 - Sorting for table UI 
 
 CrowdStrike Detection: 
---------------------
+----------------------
 
 - Ui and logging updates 
 
 Configuration File{.env): 
-----------------------
+-------------------------
 
 - Converted Titles to Generics 
 
 Dependencies: 
------------
+-------------
 
 - GoFalcon updated to 2.33 and 4.2 
 
 Code Review: 
-----------
+------------
 
 - Activationlogin.go 
 - environmentConfiguration.go 
@@ -107,11 +107,11 @@ Code Review:
 - windowsElements.go 
 
 Environment Configuration: 
-------------------------
+--------------------------
 
 - Updated Encryption 
 
 Online Status: 
-------------
+--------------
 
 - Wrote new online status utility 
