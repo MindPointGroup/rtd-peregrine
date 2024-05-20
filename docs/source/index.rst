@@ -1,10 +1,27 @@
 Welcome to MPG Peregrine documentation
-===================================
+======================================
 
-MPG Peregrine is an add-on to CrowdStrike Falcon.
+MPG Peregrine is an add-on to CrowdStrike Falcon. Manage multiple hosts with batch analysis, containment, and remediation.
 
-TODO: Finish this PAGE:
+Manage at Scale
+---------------
 
+Gather information from and apply changes to multiple systems, utilizing your scripts, and remove the need to log in and out of hosts in order to make changes or gather information from individual sensors.
+
+Investigate Alerts
+------------------
+
+Utilize the CrowdStrike API and scripts to research alerts, and gather information from multiple systems to determine the scope of cyber threats.
+
+Contain in Bulk
+---------------
+
+Give your team the ability to contain multiple systems all at once. When you are ready, you can uncontain systems one-at-a-time or in bulk.
+
+Remediate Incidents
+-------------------
+
+Remediate incidents on one host or multiple hosts utilizing Peregrine's RTR batch function. If systems are offline, the RTR offline queue will inform you of the delay and inform you once the system is remediated after coming back online.
 
 Contents
 --------
