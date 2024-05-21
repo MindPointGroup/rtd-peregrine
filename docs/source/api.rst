@@ -1,11 +1,11 @@
 API client
-========
+==========
 
 Overview
 --------
 
 Steps to set up an API Client for a Peregrine user
----------------------------------------------
+--------------------------------------------------
 
 1. Login to the Falcon console
   a. optionally navigate to the tenant you want to create the Client for
