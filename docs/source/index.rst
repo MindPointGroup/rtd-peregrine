@@ -39,6 +39,7 @@ Contents
    :hidden:
    :caption: Release Notes
 
+   /releases/peregrine-v3.1.3
    /releases/peregrine-v3.1.2
    /releases/peregrine-v3.1.0
    /releases/peregrine-v3.0.5
