@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'MPGPeregrine'
-copyright = '2023, MPG'
-author = 'MPG'
+copyright = '2024, MindPoint Group'
+author = 'MindPoint Group'
 
 release = '0.1'
 version = '0.1.0'
