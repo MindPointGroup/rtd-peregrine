@@ -39,3 +39,11 @@ CODE REVIEW
 - Member CID
 - Main Menu
 - Remote Explorer Table
+
+SHA256 CHECKSUMS
+----------------
+
+================================================================  ===========================
+a70f57fcc889d56d7dd31331aa030b4779494b50d3bf9766a7fa8aafb9d614bf  Peregrine.exe (Windows)
+865113246b08127e3292e0f551f66deab2cf6be03d7df337dce0597e32658e9c  peregrine-mac.tar (Mac x86)
+================================================================  ===========================

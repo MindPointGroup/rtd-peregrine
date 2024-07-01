@@ -60,3 +60,11 @@ CODE REVIEW
 - CrowdStrike Detection
 - Extended Details
 - Configuration Manager
+
+SHA256 CHECKSUMS
+----------------
+
+================================================================  ===========================
+4b0e75bff4bc0af5bbae830b5cedb1158fd193f57d3d6a0ec6c047f429bb8ac9  Peregrine.exe (Windows)
+3d63bdfc45aecccd53cc82a65758b6ff09761564a429f5205882db5a2854ce92  peregrine-mac.tar (Mac x86)
+================================================================  ===========================

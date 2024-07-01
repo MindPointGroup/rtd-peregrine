@@ -42,4 +42,12 @@ CODE REVIEW
 -----------
 
 - Zero Trust
-- Extended Button file
+- Extended Button fileA
+
+SHA256 CHECKSUMS
+----------------
+
+================================================================  ===========================
+93e0d793b18ca686d0d905c2c71208cff69b01009c5893a50bc123828201f25c  Peregrine.exe (Windows)
+01154de65dcae5274d9200333cdccc7ae562389e94b8eb5b0763c9b56e172e79  peregrine-mac.tar (Mac x86)
+================================================================  ===========================

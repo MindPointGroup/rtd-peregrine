@@ -44,3 +44,11 @@ FIXES
 - Fix Remove Button Disable for NoCID
 - Fixed header in Host Extended Details
 - Fixed Get assessment issue by adding Error handler
+
+SHA256 CHECKSUMS
+----------------
+
+================================================================  ===========================
+5d5e72e1af120c96379b6eae95cc8d20cb92c5a433f4277a0b66fdfa5a14ee05  Peregrine.exe (Windows)
+e236e38f66a00023c222fbead88db41b00a341bb5cc322727583f2b9314723a1  peregrine-mac.tar (Mac x86)
+================================================================  ===========================
