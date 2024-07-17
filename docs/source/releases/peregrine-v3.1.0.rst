@@ -56,3 +56,11 @@ CODE REVIEW
 - Task Manager
 - Configuration Manager
 - Extended Details
+
+SHA256 CHECKSUMS
+----------------
+
+================================================================  ===========================
+54ab26997bfdfc5eaf7fd5da0f71c03721c7820bb6e952b957384efcecec67da  Peregrine.exe (Windows)
+5548229403bca74e0f50dc05b38e5a4cacb769bb2f810dc97df71177cdb5fb7e  peregrine-mac.tar (Mac x86)
+================================================================  ===========================
