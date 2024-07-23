@@ -1,53 +1,59 @@
-Release Notes Peregrine v3.1.3
+Release Notes Peregrine v3.1.4
 ==============================
 
 ============= =======================
-Release date: 2024-06-14
-Notes:        Peregrine 3.1.3 is a recommended install for all users.
+Release date: 2024-07-22
+Notes:        Peregrine 3.1.4 is a recommended install for all users.
 ============= =======================
 
 UPDATES
 -------
 
-- Zero Trust enhancements:
-- Pagination, UI enhancements, and optional data call on startup
-- Zero Trust now maintains state throughout click-through of application
 - Further error handling for CID/env files
-- Updated batch functionality for Test CrowdStrike detection
-- Created code to identify bad CID’s in configuration files
-- Made zero trust optional when providing host information to the user as well as refreshing the host list
-- Update offline Queue to show completed result in the record set.
-- Enhance load speed of application by modifying how stats are sent to the license server.
-- Separated Device Explorer and Zero Trust datasets for separation of widget services
-- Built customizable Button with Hover, tapped, and selected states.
-- Updated sort buttons with enhanced button theme Device Explorer
-- Updated sort buttons with enhanced button theme Zero Trust
-- Updated sort buttons with enhanced button theme Task Manger
-- Updated sort buttons with enhanced button theme File Explorer
+- Log File review and clean up
+- Zero Trust standalone dataset setup on service layer
+- Zero Trust standalone dataset setup on presentation layer
+- Updated to identify bad CIDs in configuration files
+- Sorting added to Offline Queue
+- Dropdown Finished Initialized for Offline Queue
+- Sorting added to Cloud File
+- Sorting added to RTR manager
+- Sorting utility for Offline Queue, Cloud File and RTR manager
+- Removed columns Offline Queue
+- Search input added to Offline Queue
+- Search input added to Cloud File
+- Separated Device Explorer and Zero Trust datasets for separation of widget service
+- Activation login Updated cancel on login to return user to multi config if wrong selection is made
+- Added trim spaces for all sorting utilities
+- Updated Datasets for Offline Queue, Cloud File and RTR manager to support standalone datasets
+- Faster response when sending mis spelled CrowdStrike commands.
 
 FIXES
 -----
 
 - Fixed sorting bug in Create and Modified Date in File Explorer Module
-- Fixed NRF issue with app crashing
-- Fixed Zero Trust Sort issues
-- Fixed Zero Trust Pagination issues
-- Fixed Device Explorer Sort issues
-- Fixed Device Explorer Pagination issues
-- Fixed Zero Trust maintain selection state
-- Fixed Zero Trust Clear no resetting pagination
-- Fixed Zero Trust not refreshing Table data when switching to new configuration file.
+- Setconfig onload .env NFR client bug fix
+- Fixed stats on login to run at same time as loading application
+- Zero Trust reset widget fix
+- Device explorer Fix for Empty set on refresh
+- Check for empty set on authentication
+- Dialog window rendering fix
+- Fix to speed up RTR response when command is misspelled
+- Cleaned up device files
 
 CODE REVIEW
 -----------
 
-- Zero Trust
-- Extended Button fileA
+- Device Explorer
+- Offline Queue
+- Cloud File
+- RTR manager
+- Activation login
 
 SHA256 CHECKSUMS
 ----------------
 
 ================================================================  ===========================
-93e0d793b18ca686d0d905c2c71208cff69b01009c5893a50bc123828201f25c  Peregrine.exe (Windows)
-01154de65dcae5274d9200333cdccc7ae562389e94b8eb5b0763c9b56e172e79  peregrine-mac.tar (Mac x86)
+80fead5a0ba4db76d1c0db6a69507322a68454051ebce153ff10d7222c658bf0  Peregrine.exe (Windows)
+61d434a75e950804d896c1c2ad48bc9ce8c9de46f9b07fb8384d88976f6ba896  peregrine-mac.tar (Mac x86)
 ================================================================  ===========================
