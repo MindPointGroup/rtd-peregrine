@@ -33,6 +33,7 @@ Contents
    /usage
    /menu
    /api
+   /supported-apis
 
 .. toctree::
    :maxdepth: 2
