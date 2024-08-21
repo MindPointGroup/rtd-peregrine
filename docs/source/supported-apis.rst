@@ -25,10 +25,10 @@ Cloud Security APIs
 -------------------
 
 - CS Posture Management (Falcon Horizon) APIs
-- Clous Workload Discovery Azure Subscription APIs
-- Clous Workload Discovery AWS Accounts APIs
-- Clous Workload Discovery Registry Connection Management APIs
-- Clous Workload Discovery GCP Projects APIs
+- Cloud Workload Discovery Azure Subscription APIs
+- Cloud Workload Discovery AWS Accounts APIs
+- Cloud Workload Discovery Registry Connection Management APIs
+- Cloud Workload Discovery GCP Projects APIs
 
 Identity Protection APIs
 ------------------------
