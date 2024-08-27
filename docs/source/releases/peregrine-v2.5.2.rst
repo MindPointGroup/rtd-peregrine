@@ -1,4 +1,4 @@
-Release Notes Peregrine v2.5.2
+Release Notes Peregrine™ v2.5.2
 ==============================
 
 ============= =======================

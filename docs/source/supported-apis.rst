@@ -1,4 +1,4 @@
-Peregrine Supported APIs
+Peregrine™ Supported APIs
 ========================
 - Host
 - Host Groups

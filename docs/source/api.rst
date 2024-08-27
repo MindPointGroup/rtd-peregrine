@@ -3,9 +3,9 @@ API client
 
 Overview
 --------
-Each Peregrine user needs to have an API Client (ID and Secret) which are used to connect to the Falcon API. The steps on this page outline the process to create an API Client.
+Each Peregrine™ user needs to have an API Client (ID and Secret) which are used to connect to the Falcon API. The steps on this page outline the process to create an API Client.
 
-Steps to set up an API Client for a Peregrine user
+Steps to set up an API Client for a Peregrine™ user
 --------------------------------------------------
 
 1. Login to the Falcon console

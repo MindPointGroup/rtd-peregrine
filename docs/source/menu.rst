@@ -1,4 +1,4 @@
-Peregrine Menu overview
+Peregrine™ Menu overview
 =======================
 
 *This document describes the various features of MPG Peregrine from the

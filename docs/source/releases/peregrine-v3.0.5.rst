@@ -1,4 +1,4 @@
-Release Notes Peregrine v3.0.5
+Release Notes Peregrine™ v3.0.5
 ==============================
 
 ============= =======================
