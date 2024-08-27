@@ -1,7 +1,7 @@
 MPG Peregrine™ User Documentation
 =======================================
 
-This is the client facing user documentation for MindPoint Group's MPG Peregrine™ project.
+This is the client facing user documentation for MindPoint Group's MPG Peregrine project.
 
 TODO: Instructions for use:
 ---------------------------
