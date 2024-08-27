@@ -1,4 +1,4 @@
-Welcome to MPG Peregrine documentation
+Welcome to MPG Peregrine™ documentation
 ======================================
 
 MPG Peregrine is an add-on to CrowdStrike Falcon. Manage multiple hosts with batch analysis, containment, and remediation.
@@ -40,6 +40,7 @@ Contents
    :hidden:
    :caption: Release Notes
 
+   /releases/peregrine-v3.1.5
    /releases/peregrine-v3.1.4
    /releases/peregrine-v3.1.3
    /releases/peregrine-v3.1.2
