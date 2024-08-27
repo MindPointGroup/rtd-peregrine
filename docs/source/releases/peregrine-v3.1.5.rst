@@ -32,6 +32,6 @@ FIXES
 - Fix KeyEvent key listener bug (Caused keyboard input lag)
 - Fix Registry Path not maintaining state when canceling a delete
 - Fix Task Manager (Linux) Button Control 
-- Task Manager (Mac) Button Control 
-- Task Manager (Windows) Button control 
+- Fix Task Manager (Mac) Button Control 
+- Fix Task Manager (Windows) Button control 
 - Ui Fix for small screen, Peregrine when loading Host Explorer Screen application was bleeding off of screen
