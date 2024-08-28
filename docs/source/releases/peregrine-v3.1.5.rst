@@ -35,3 +35,11 @@ FIXES
 - Fix Task Manager (Mac) Button Control 
 - Fix Task Manager (Windows) Button control 
 - Ui Fix for small screen, Peregrine when loading Host Explorer Screen application was bleeding off of screen
+
+SHA256 CHECKSUMS
+----------------
+
+================================================================  ===========================
+bd109c8aa409617af01980832e3700bcf470ed5e4e810d10416d2b140c6236a8  Peregrine.exe (Windows)
+151616a38557e042ce476d8d11e3792191ac5a7e676ad784e03a8aea6437e269  peregrine-mac.tar (Mac x86)
+================================================================  ===========================
