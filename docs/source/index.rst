@@ -30,7 +30,6 @@ Contents
    :maxdepth: 2
    :caption: Peregrine Documentation
    
-   /usage
    /menu
    /api
    /supported-apis
